@@ -2,9 +2,11 @@
 
 ## Data Source
 
-The dataset used for this analysis, "Airline Delays for December 2019 and 2020," is sourced from Kaggle. You can access the dataset by following this [Kaggle link](PUT_YOUR_KAGGLE_LINK_HERE) and searching for the "Airline Delays for December 2019 and 2020" dataset.
+The dataset used for this analysis, "Airline Delays for December 2019 and 2020," is sourced from Kaggle. You can access the dataset by following this [Kaggle link](https://www.kaggle.com/datasets/eugeniyosetrov/airline-delays) and searching for the "Airline Delays for December 2019 and 2020" dataset.
 
 ## Overview
+
+![Airplane Image](https://example.com/airplane.jpg)
 
 This project provides a comprehensive analysis of airline performance data for the years 2019 and 2020, with a focus on key metrics such as the number of flights, delays, cancellations, diversions, and detailed delay types. The primary objective is to understand how the aviation industry was affected by the COVID-19 pandemic during this period.
 
@@ -33,7 +35,6 @@ The data reveals the significant impact of the COVID-19 pandemic on the airline 
 ## Usage
 
 To explore the analysis, refer to the Jupyter Notebook file in this repository. You can open and run it to access detailed insights and visualizations.
-
 
 ## Author
 
